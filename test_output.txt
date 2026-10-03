@@ -1,0 +1,52 @@
+=== Simple Banking System ===
+
+Enter information for Account 1:
+Enter 9-digit account number: Enter account holder name: Enter opening balance: $Account information has been processed.
+
+Enter information for Account 2:
+Enter 9-digit account number: Enter account holder name: Enter opening balance: $Account information has been processed.
+
+Enter information for Account 3:
+Enter 9-digit account number: Enter account holder name: Enter opening balance: $Account information has been processed.
+
+=== Transactions for Account 1 ===
+Account Number: 123456789
+Name: Park Sunhum
+Balance: $1000.00
+Enter deposit amount: $Deposit successful. New balance: $1200.00
+Deposit transaction has been processed.
+Enter withdrawal amount: $Withdrawal successful. New balance: $1100.00
+Withdrawal transaction has been processed.
+
+=== Transactions for Account 2 ===
+Account Number: 234567890
+Name: John Kim
+Balance: $500.00
+Enter deposit amount: $Deposit successful. New balance: $550.00
+Deposit transaction has been processed.
+Enter withdrawal amount: $Withdrawal successful. New balance: $450.00
+Withdrawal transaction has been processed.
+
+=== Transactions for Account 3 ===
+Account Number: 345678901
+Name: Jane Lee
+Balance: $750.00
+Enter deposit amount: $Deposit successful. New balance: $850.00
+Deposit transaction has been processed.
+Enter withdrawal amount: $Withdrawal successful. New balance: $650.00
+Withdrawal transaction has been processed.
+
+=== Final Account Information ===
+Account Number: 123456789
+Name: Park Sunhum
+Balance: $1100.00
+
+Account Number: 234567890
+Name: John Kim
+Balance: $450.00
+
+Account Number: 345678901
+Name: Jane Lee
+Balance: $650.00
+
+Program finished.
